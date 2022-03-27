@@ -1,6 +1,0 @@
-SLO
-frontend-app pod memory usage will decrease 20x in 2 months
-
-
-SLI
-last month frontend-app pod memory usage decreased by 5x

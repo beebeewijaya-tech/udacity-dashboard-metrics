@@ -1,4 +1,0 @@
-1. Number of memory usage
-2. Application Uptime
-3. Number of cpu usage
-4. Number of errors
