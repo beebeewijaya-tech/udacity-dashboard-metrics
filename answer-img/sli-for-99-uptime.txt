@@ -1,0 +1,4 @@
+1. measuring http error
+2. measuring pod cpu usage
+3. measuring pod memory usage
+4. measuring pod health / pod running status
